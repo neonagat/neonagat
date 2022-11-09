@@ -1,4 +1,4 @@
-[![MasterHead](https://octodev.net/wp-content/uploads/2017/05/jstips-animation.gif)]
+![MasterHead](https://octodev.net/wp-content/uploads/2017/05/jstips-animation.gif)
 <h1 align="center">Hi there! My name is Serge.</h1>
 <h3 align="center">A Front-End developer, fascinated by technology. Eager to learn new technologies and programming concepts that hone my skills as an engineer and make my projects skyrocket.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif">
