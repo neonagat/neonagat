@@ -1,6 +1,6 @@
 ![MasterHead](https://octodev.net/wp-content/uploads/2017/05/jstips-animation.gif)
 <h1 align="center" dir="auto">Hi there! My name is Sergii.</h1>
-<h3 align="center" dir="auto">Creative and dedicated Systems Engineer with practical experience working with machines, electrical components, and industrial equipment. Skilled in troubleshooting, assembly, and preventive maintenance of technical systems. Motivated by a deep interest in how things operate and dedicated to learning, adapting, and improving while always delivering my best work.
+<h3 align="center" dir="auto">Creative and hands-on Systems Engineer with a strong background in troubleshooting complex hardware, networking, and modern infrastructure. Skilled in diagnosing system failures, managing VMware environments, and maintaining high-availability systems. Comfortable working "under the hood" of a server, scripting in PowerShell, or supporting cloud workflows to keep operations running safely and efficiently. Curious by nature, motivated by how technology connects, and always eager to implement smart solutions like local LLMs to drive high-quality technical results.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
