@@ -2,7 +2,7 @@
 <h1 align="center" dir="auto">Hi there! My name is Sergii.</h1>
 <h3 align="center" dir="auto">Creative and hands-on Systems Engineer with a strong background in troubleshooting complex hardware, networking, and modern infrastructure. Skilled in diagnosing system failures, managing VMware environments, and maintaining high-availability systems. Comfortable working "under the hood" of a server, scripting in PowerShell, or supporting cloud workflows to keep operations running safely and efficiently. Curious by nature, motivated by how technology connects, and always eager to implement smart solutions like local LLMs to drive high-quality technical results.
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif" style="max-width: 100%: display: inline-block;" data-target="animated-image.originalImage">
 
 <!-- <h3 align="left" dir="auto">Connect with me:</h3>
 <p align="left" dir="auto">
